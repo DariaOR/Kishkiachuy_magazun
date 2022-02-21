@@ -11,3 +11,46 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#root {
+  padding-top: 30px;
+  
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  box-sizing: border-box;
+  background: #f1f1f1;
+}
+
+.goods-field::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.goods-block {
+  width: 20%;
+  margin: 1%;
+  padding: 10px;
+  border: 1px solid black;
+  float: left;
+  text-align: center;
+}
+
+.goods-block img {
+  width: 150px;
+  display: block;
+  height: 50%;
+  margin: 20px auto;
+}
+
+.cartpic {
+  height: 10px;
+  width: 10px;
+}
+.bin {
+  height: 19px;
+  width: 12px;
+}
