@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DariaOR/Kishkiachuy_magazun/static/css/main.6b0c330b.css",
-    "main.js": "/DariaOR/Kishkiachuy_magazun/static/js/main.bf5e5413.js",
-    "static/js/787.5c02adea.chunk.js": "/DariaOR/Kishkiachuy_magazun/static/js/787.5c02adea.chunk.js",
-    "index.html": "/DariaOR/Kishkiachuy_magazun/index.html",
-    "main.6b0c330b.css.map": "/DariaOR/Kishkiachuy_magazun/static/css/main.6b0c330b.css.map",
-    "main.bf5e5413.js.map": "/DariaOR/Kishkiachuy_magazun/static/js/main.bf5e5413.js.map",
-    "787.5c02adea.chunk.js.map": "/DariaOR/Kishkiachuy_magazun/static/js/787.5c02adea.chunk.js.map"
+    "main.css": "/Kishkiachuy_magazun/static/css/main.6b0c330b.css",
+    "main.js": "/Kishkiachuy_magazun/static/js/main.e7d6d366.js",
+    "static/js/787.5c02adea.chunk.js": "/Kishkiachuy_magazun/static/js/787.5c02adea.chunk.js",
+    "index.html": "/Kishkiachuy_magazun/index.html",
+    "main.6b0c330b.css.map": "/Kishkiachuy_magazun/static/css/main.6b0c330b.css.map",
+    "main.e7d6d366.js.map": "/Kishkiachuy_magazun/static/js/main.e7d6d366.js.map",
+    "787.5c02adea.chunk.js.map": "/Kishkiachuy_magazun/static/js/787.5c02adea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b0c330b.css",
-    "static/js/main.bf5e5413.js"
+    "static/js/main.e7d6d366.js"
   ]
 }
