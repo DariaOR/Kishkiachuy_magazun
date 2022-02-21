@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DariaOR/Kishkiachuy_magazun.github.io.git/static/css/main.6b0c330b.css",
-    "main.js": "/DariaOR/Kishkiachuy_magazun.github.io.git/static/js/main.bc1b2cdb.js",
-    "static/js/787.5c02adea.chunk.js": "/DariaOR/Kishkiachuy_magazun.github.io.git/static/js/787.5c02adea.chunk.js",
-    "index.html": "/DariaOR/Kishkiachuy_magazun.github.io.git/index.html",
-    "main.6b0c330b.css.map": "/DariaOR/Kishkiachuy_magazun.github.io.git/static/css/main.6b0c330b.css.map",
-    "main.bc1b2cdb.js.map": "/DariaOR/Kishkiachuy_magazun.github.io.git/static/js/main.bc1b2cdb.js.map",
-    "787.5c02adea.chunk.js.map": "/DariaOR/Kishkiachuy_magazun.github.io.git/static/js/787.5c02adea.chunk.js.map"
+    "main.css": "/DariaOR/Kishkiachuy_magazun/static/css/main.6b0c330b.css",
+    "main.js": "/DariaOR/Kishkiachuy_magazun/static/js/main.bf5e5413.js",
+    "static/js/787.5c02adea.chunk.js": "/DariaOR/Kishkiachuy_magazun/static/js/787.5c02adea.chunk.js",
+    "index.html": "/DariaOR/Kishkiachuy_magazun/index.html",
+    "main.6b0c330b.css.map": "/DariaOR/Kishkiachuy_magazun/static/css/main.6b0c330b.css.map",
+    "main.bf5e5413.js.map": "/DariaOR/Kishkiachuy_magazun/static/js/main.bf5e5413.js.map",
+    "787.5c02adea.chunk.js.map": "/DariaOR/Kishkiachuy_magazun/static/js/787.5c02adea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b0c330b.css",
-    "static/js/main.bc1b2cdb.js"
+    "static/js/main.bf5e5413.js"
   ]
 }
